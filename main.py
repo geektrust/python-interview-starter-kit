@@ -13,7 +13,8 @@ class Main:
         Once retrieved, it is available as string data for you to implement the solution.
         You may need to typecast each input depending on the problem statement.
 
-        Main.handle() will be called in a loop for each input.
+        Your final output needs to be printed to the console.
+
         """
 
         input_list = input_str.strip().split(" ")
