@@ -11,8 +11,9 @@ class Main:
 
         We split the string and retrieve the input data into input1, input2, input3.
         Once retrieved, it is available as string data for you to implement the solution.
+        You may need to typecast each input depending on the problem statement.
 
-        Main.handle() will be called in a loop for each input command.
+        Main.handle() will be called in a loop for each input.
         """
 
         input_list = input_str.strip().split(" ")
